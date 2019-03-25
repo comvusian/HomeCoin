@@ -1,0 +1,2 @@
+# HomeCoin
+New Coin: HomeCoin.
